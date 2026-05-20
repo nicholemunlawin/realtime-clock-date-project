@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project has moved to the main portfolio repository: [Portfolio Projects](https://github.com/nicholemunlawin/portfolio-projects/tree/main/python-projects/realtime-clock-date-project). This repository is archived and kept for history/reference.
+
 # Realtime Clock Date Project
 
 A simple desktop clock app built with Python and Tkinter. It shows the current time, day, and date in a clean window and updates the clock every second.
